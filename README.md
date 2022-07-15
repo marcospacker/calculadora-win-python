@@ -10,7 +10,7 @@
 
 
 
-### Tecnologias usadas:
+### 🚀 Tecnologias usadas 🚀
 #####  ✅ Pyside2 QTdesigner foi usado para fazer botoes, visor, animação, cores, janela.
 #####  ✅ "Compilador" esse programa foi usado para converter o arquivo gerado no (QTdesigner ".ui") para (python ".py") para ser criado as funçoes e execução.
 #####  ✅ Criei todas as funçoes em Python, o objetivo era fazer uma calculadora igual a do windows com codigo simples de iniciante.
