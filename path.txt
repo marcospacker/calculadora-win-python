@@ -1,0 +1,2 @@
+C:\Users\mark\Desktop\calculadora\;
+D:\dmd2\windows\bin\;D:\dmd2\dm\bin;
